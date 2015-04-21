@@ -1,0 +1,406 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Birds Shortcodes\n"
+"POT-Creation-Date: 2015-04-20 17:25+0100\n"
+"PO-Revision-Date: 2015-04-20 17:26+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: assets/i18n/translations.php:11
+msgid "Layout"
+msgstr ""
+
+#: assets/i18n/translations.php:12
+msgid "Row"
+msgstr ""
+
+#: assets/i18n/translations.php:13
+msgid "Columns"
+msgstr ""
+
+#: assets/i18n/translations.php:14
+msgid "Two Columns"
+msgstr ""
+
+#: assets/i18n/translations.php:15
+msgid "Three Columns"
+msgstr ""
+
+#: assets/i18n/translations.php:16
+msgid "Four Columns"
+msgstr ""
+
+#: assets/i18n/translations.php:17
+msgid "Column 1"
+msgstr ""
+
+#: assets/i18n/translations.php:18
+msgid "Column 2"
+msgstr ""
+
+#: assets/i18n/translations.php:19
+msgid "Column 3"
+msgstr ""
+
+#: assets/i18n/translations.php:20
+msgid "Column 4"
+msgstr ""
+
+#: assets/i18n/translations.php:21
+msgid "Elements"
+msgstr ""
+
+#: assets/i18n/translations.php:22
+msgid "Button"
+msgstr ""
+
+#: assets/i18n/translations.php:23
+msgid "Button Options"
+msgstr ""
+
+#: assets/i18n/translations.php:24
+msgid "Text"
+msgstr ""
+
+#: assets/i18n/translations.php:25
+msgid "Link"
+msgstr ""
+
+#: assets/i18n/translations.php:26
+msgid "Style"
+msgstr ""
+
+#: assets/i18n/translations.php:27
+msgid "Primary"
+msgstr ""
+
+#: assets/i18n/translations.php:28
+msgid "Secondary"
+msgstr ""
+
+#: assets/i18n/translations.php:29
+msgid "Success"
+msgstr ""
+
+#: assets/i18n/translations.php:30
+msgid "Alert"
+msgstr ""
+
+#: assets/i18n/translations.php:31
+msgid "Size"
+msgstr ""
+
+#: assets/i18n/translations.php:32
+msgid "Tiny"
+msgstr ""
+
+#: assets/i18n/translations.php:33
+msgid "Small"
+msgstr ""
+
+#: assets/i18n/translations.php:34
+msgid "Large"
+msgstr ""
+
+#: assets/i18n/translations.php:35
+msgid "Expand"
+msgstr ""
+
+#: assets/i18n/translations.php:36
+msgid "Type"
+msgstr ""
+
+#: assets/i18n/translations.php:37
+msgid "Radius"
+msgstr ""
+
+#: assets/i18n/translations.php:38
+msgid "Round"
+msgstr ""
+
+#: assets/i18n/translations.php:39
+msgid "Label"
+msgstr ""
+
+#: assets/i18n/translations.php:40
+msgid "Label Options"
+msgstr ""
+
+#: assets/i18n/translations.php:41
+msgid "Regular"
+msgstr ""
+
+#: assets/i18n/translations.php:42
+msgid "Tooltip"
+msgstr ""
+
+#: assets/i18n/translations.php:43
+msgid "Tooltip Options"
+msgstr ""
+
+#: assets/i18n/translations.php:44
+msgid "Tip"
+msgstr ""
+
+#: assets/i18n/translations.php:45
+msgid "Position"
+msgstr ""
+
+#: assets/i18n/translations.php:46
+msgid "Top"
+msgstr ""
+
+#: assets/i18n/translations.php:47
+msgid "Bottom"
+msgstr ""
+
+#: assets/i18n/translations.php:48
+msgid "Left"
+msgstr ""
+
+#: assets/i18n/translations.php:49
+msgid "Right"
+msgstr ""
+
+#: assets/i18n/translations.php:50
+msgid "Blockquote"
+msgstr ""
+
+#: assets/i18n/translations.php:51
+msgid "Add a blockquote"
+msgstr ""
+
+#: assets/i18n/translations.php:52
+msgid "Author"
+msgstr ""
+
+#: assets/i18n/translations.php:53
+msgid "Panel"
+msgstr ""
+
+#: assets/i18n/translations.php:54
+msgid "Panel Options"
+msgstr ""
+
+#: assets/i18n/translations.php:55
+msgid "Callout"
+msgstr ""
+
+#: assets/i18n/translations.php:56
+msgid "Alert Options"
+msgstr ""
+
+#: assets/i18n/translations.php:57
+msgid "Progress Bar"
+msgstr ""
+
+#: assets/i18n/translations.php:58
+msgid "Progress Bar Options"
+msgstr ""
+
+#: assets/i18n/translations.php:59
+msgid "Span (between 2 and 12)"
+msgstr ""
+
+#: assets/i18n/translations.php:60
+msgid "Progress (between 1 and 100)"
+msgstr ""
+
+#: assets/i18n/translations.php:61
+msgid "Medias"
+msgstr ""
+
+#: assets/i18n/translations.php:62
+msgid "Icons"
+msgstr ""
+
+#: assets/i18n/translations.php:63
+msgid "Choose an icon and its size"
+msgstr ""
+
+#: assets/i18n/translations.php:64
+msgid "Insert"
+msgstr ""
+
+#: assets/i18n/translations.php:65
+msgid "Close"
+msgstr ""
+
+#: assets/i18n/translations.php:66
+msgid "Google Map"
+msgstr ""
+
+#: assets/i18n/translations.php:67
+msgid "Google Map Options"
+msgstr ""
+
+#: assets/i18n/translations.php:68
+msgid "Title"
+msgstr ""
+
+#: assets/i18n/translations.php:69
+msgid "Location"
+msgstr ""
+
+#: assets/i18n/translations.php:70
+msgid "Height"
+msgstr ""
+
+#: assets/i18n/translations.php:71
+msgid "Zoom"
+msgstr ""
+
+#: assets/i18n/translations.php:72
+msgid "Video"
+msgstr ""
+
+#: assets/i18n/translations.php:73
+msgid "Embedded"
+msgstr ""
+
+#: assets/i18n/translations.php:74
+msgid "Flex Video Options"
+msgstr ""
+
+#: assets/i18n/translations.php:75
+msgid "Embed Code"
+msgstr ""
+
+#: assets/i18n/translations.php:76
+msgid "Widescreen"
+msgstr ""
+
+#: assets/i18n/translations.php:77
+msgid "Other"
+msgstr ""
+
+#: assets/i18n/translations.php:78
+msgid "Self-hosted"
+msgstr ""
+
+#: assets/i18n/translations.php:79
+msgid "Insert a self-hosted video"
+msgstr ""
+
+#: assets/i18n/translations.php:80
+msgid "Video URL (h.264 or ogg)"
+msgstr ""
+
+#: assets/i18n/translations.php:81
+msgid "Audio"
+msgstr ""
+
+#: assets/i18n/translations.php:82
+msgid "SoundCloud"
+msgstr ""
+
+#: assets/i18n/translations.php:83
+msgid "SoundCloud Track Options"
+msgstr ""
+
+#: assets/i18n/translations.php:84
+msgid "Insert a self-hosted audio"
+msgstr ""
+
+#: assets/i18n/translations.php:85
+msgid "Sound URL (mp3 or ogg)"
+msgstr ""
+
+#: assets/i18n/translations.php:86
+msgid "Preload"
+msgstr ""
+
+#: assets/i18n/translations.php:87
+msgid "None"
+msgstr ""
+
+#: assets/i18n/translations.php:88
+msgid "Auto"
+msgstr ""
+
+#: assets/i18n/translations.php:89
+msgid "Metadata"
+msgstr ""
+
+#: assets/i18n/translations.php:90
+msgid "jQuery"
+msgstr ""
+
+#: assets/i18n/translations.php:91
+msgid "Modal"
+msgstr ""
+
+#: assets/i18n/translations.php:92
+msgid "Modal Options"
+msgstr ""
+
+#: assets/i18n/translations.php:93
+msgid "Modal ID (Just a unique number is fine)"
+msgstr ""
+
+#: assets/i18n/translations.php:94
+msgid "Visible text"
+msgstr ""
+
+#: assets/i18n/translations.php:95
+msgid "Popup content (HTML allowed)"
+msgstr ""
+
+#: assets/i18n/translations.php:96
+msgid "Horizontal Tabs"
+msgstr ""
+
+#: assets/i18n/translations.php:97
+msgid "Title (1st Tab)"
+msgstr ""
+
+#: assets/i18n/translations.php:98
+msgid "Title (2nd Tab)"
+msgstr ""
+
+#: assets/i18n/translations.php:99
+msgid "Title (3rd Tab)"
+msgstr ""
+
+#: assets/i18n/translations.php:100
+msgid "Title (4th Tab)"
+msgstr ""
+
+#: assets/i18n/translations.php:101
+msgid "Title (5th Tab)"
+msgstr ""
+
+#: assets/i18n/translations.php:102
+msgid "Insert the content of your first tab here"
+msgstr ""
+
+#: assets/i18n/translations.php:103
+msgid "Insert the content of your second tab here"
+msgstr ""
+
+#: assets/i18n/translations.php:104
+msgid "Insert the content of your third tab here"
+msgstr ""
+
+#: assets/i18n/translations.php:105
+msgid "Insert the content of your fourth tab here"
+msgstr ""
+
+#: assets/i18n/translations.php:106
+msgid "Insert the content of your fifth tab here"
+msgstr ""
+
+#: assets/i18n/translations.php:107
+msgid "Vertical Tabs"
+msgstr ""
