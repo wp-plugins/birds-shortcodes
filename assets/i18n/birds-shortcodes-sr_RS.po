@@ -1,0 +1,409 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Birds Shortcodes\n"
+"POT-Creation-Date: 2015-04-20 17:25+0100\n"
+"PO-Revision-Date: 2015-04-21 20:59+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Language: sr_RS\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: assets/i18n/translations.php:11
+msgid "Layout"
+msgstr "Raspored"
+
+#: assets/i18n/translations.php:12
+msgid "Row"
+msgstr "Red"
+
+#: assets/i18n/translations.php:13
+msgid "Columns"
+msgstr "Kolone"
+
+#: assets/i18n/translations.php:14
+msgid "Two Columns"
+msgstr "Dve kolone"
+
+#: assets/i18n/translations.php:15
+msgid "Three Columns"
+msgstr "Tri kolone"
+
+#: assets/i18n/translations.php:16
+msgid "Four Columns"
+msgstr "Četiri kolone"
+
+#: assets/i18n/translations.php:17
+msgid "Column 1"
+msgstr "Kolona 1"
+
+#: assets/i18n/translations.php:18
+msgid "Column 2"
+msgstr "Kolona 2"
+
+#: assets/i18n/translations.php:19
+msgid "Column 3"
+msgstr "Kolona 3"
+
+#: assets/i18n/translations.php:20
+msgid "Column 4"
+msgstr "Kolona 4"
+
+#: assets/i18n/translations.php:21
+msgid "Elements"
+msgstr "Elementi"
+
+#: assets/i18n/translations.php:22
+msgid "Button"
+msgstr "Taster"
+
+#: assets/i18n/translations.php:23
+msgid "Button Options"
+msgstr "Opcije tastera"
+
+#: assets/i18n/translations.php:24
+msgid "Text"
+msgstr "Tekst"
+
+#: assets/i18n/translations.php:25
+msgid "Link"
+msgstr "Link"
+
+#: assets/i18n/translations.php:26
+msgid "Style"
+msgstr "Stil"
+
+#: assets/i18n/translations.php:27
+msgid "Primary"
+msgstr "Primarni"
+
+#: assets/i18n/translations.php:28
+msgid "Secondary"
+msgstr "Sekundarni"
+
+#: assets/i18n/translations.php:29
+msgid "Success"
+msgstr "Uspeh"
+
+#: assets/i18n/translations.php:30
+msgid "Alert"
+msgstr "Upozorenje"
+
+#: assets/i18n/translations.php:31
+msgid "Size"
+msgstr "Veličina"
+
+#: assets/i18n/translations.php:32
+msgid "Tiny"
+msgstr "Veoma mala"
+
+#: assets/i18n/translations.php:33
+msgid "Small"
+msgstr "Mala"
+
+#: assets/i18n/translations.php:34
+msgid "Large"
+msgstr "Velika"
+
+#: assets/i18n/translations.php:35
+msgid "Expand"
+msgstr "Proširi"
+
+#: assets/i18n/translations.php:36
+msgid "Type"
+msgstr "Vrsta"
+
+#: assets/i18n/translations.php:37
+msgid "Radius"
+msgstr "Radijus"
+
+#: assets/i18n/translations.php:38
+msgid "Round"
+msgstr "Okrugao"
+
+#: assets/i18n/translations.php:39
+msgid "Label"
+msgstr "Oznaka"
+
+#: assets/i18n/translations.php:40
+msgid "Label Options"
+msgstr "Opcije oznake"
+
+#: assets/i18n/translations.php:41
+msgid "Regular"
+msgstr "Regularna"
+
+#: assets/i18n/translations.php:42
+msgid "Tooltip"
+msgstr "Tooltip"
+
+#: assets/i18n/translations.php:43
+msgid "Tooltip Options"
+msgstr "Tooltip opcije"
+
+#: assets/i18n/translations.php:44
+msgid "Tip"
+msgstr "Savet"
+
+#: assets/i18n/translations.php:45
+msgid "Position"
+msgstr "Pozicija"
+
+#: assets/i18n/translations.php:46
+msgid "Top"
+msgstr "Vrh"
+
+#: assets/i18n/translations.php:47
+msgid "Bottom"
+msgstr "Dno"
+
+#: assets/i18n/translations.php:48
+msgid "Left"
+msgstr "Levo"
+
+#: assets/i18n/translations.php:49
+msgid "Right"
+msgstr "Desno"
+
+#: assets/i18n/translations.php:50
+msgid "Blockquote"
+msgstr "Blockquote"
+
+#: assets/i18n/translations.php:51
+msgid "Add a blockquote"
+msgstr "Dodaj blockquote"
+
+#: assets/i18n/translations.php:52
+msgid "Author"
+msgstr "Autor"
+
+#: assets/i18n/translations.php:53
+msgid "Panel"
+msgstr "Panel"
+
+#: assets/i18n/translations.php:54
+msgid "Panel Options"
+msgstr "Opcije panela"
+
+#: assets/i18n/translations.php:55
+msgid "Callout"
+msgstr "dodatni opisi"
+
+#: assets/i18n/translations.php:56
+msgid "Alert Options"
+msgstr "Opcije upozorenja"
+
+#: assets/i18n/translations.php:57
+msgid "Progress Bar"
+msgstr "Traka za prikazivanje napretka"
+
+#: assets/i18n/translations.php:58
+msgid "Progress Bar Options"
+msgstr "Opcije trake za prikazivanje napretka"
+
+#: assets/i18n/translations.php:59
+msgid "Span (between 2 and 12)"
+msgstr "Raspon (između 2 i 12)"
+
+#: assets/i18n/translations.php:60
+msgid "Progress (between 1 and 100)"
+msgstr "Napredak (između 1 i 100)"
+
+#: assets/i18n/translations.php:61
+msgid "Medias"
+msgstr "Mediji"
+
+#: assets/i18n/translations.php:62
+msgid "Icons"
+msgstr "Ikonice"
+
+#: assets/i18n/translations.php:63
+msgid "Choose an icon and its size"
+msgstr "Izaberite ikonicu i njenu veličinu"
+
+#: assets/i18n/translations.php:64
+msgid "Insert"
+msgstr "Ubaci"
+
+#: assets/i18n/translations.php:65
+msgid "Close"
+msgstr "Zatvori"
+
+#: assets/i18n/translations.php:66
+msgid "Google Map"
+msgstr "Google mapa"
+
+#: assets/i18n/translations.php:67
+msgid "Google Map Options"
+msgstr "Opcije Google mape"
+
+#: assets/i18n/translations.php:68
+msgid "Title"
+msgstr "Naziv"
+
+#: assets/i18n/translations.php:69
+msgid "Location"
+msgstr "Lokacija"
+
+#: assets/i18n/translations.php:70
+msgid "Height"
+msgstr "Visina"
+
+#: assets/i18n/translations.php:71
+msgid "Zoom"
+msgstr "Uveličavanje"
+
+#: assets/i18n/translations.php:72
+msgid "Video"
+msgstr "Video"
+
+#: assets/i18n/translations.php:73
+msgid "Embedded"
+msgstr "Ugrađeni"
+
+#: assets/i18n/translations.php:74
+msgid "Flex Video Options"
+msgstr "Opcije flex-videa"
+
+#: assets/i18n/translations.php:75
+msgid "Embed Code"
+msgstr "Ugrađeni kod"
+
+#: assets/i18n/translations.php:76
+msgid "Widescreen"
+msgstr "Na celom ekranu"
+
+#: assets/i18n/translations.php:77
+msgid "Other"
+msgstr "Drugi"
+
+#: assets/i18n/translations.php:78
+msgid "Self-hosted"
+msgstr "Self-hosted"
+
+#: assets/i18n/translations.php:79
+msgid "Insert a self-hosted video"
+msgstr "Unesite self-hosted video"
+
+#: assets/i18n/translations.php:80
+msgid "Video URL (h.264 or ogg)"
+msgstr "URL videa (264 ili ogg)"
+
+#: assets/i18n/translations.php:81
+msgid "Audio"
+msgstr "Audio"
+
+#: assets/i18n/translations.php:82
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: assets/i18n/translations.php:83
+msgid "SoundCloud Track Options"
+msgstr "SoundCloud opcije emitovanja"
+
+#: assets/i18n/translations.php:84
+msgid "Insert a self-hosted audio"
+msgstr "Unesite self-hosted audio"
+
+#: assets/i18n/translations.php:85
+msgid "Sound URL (mp3 or ogg)"
+msgstr "URL zvuka (mp3 ili ogg)"
+
+#: assets/i18n/translations.php:86
+msgid "Preload"
+msgstr "Učitavanje unapred"
+
+#: assets/i18n/translations.php:87
+msgid "None"
+msgstr "Nijedan"
+
+#: assets/i18n/translations.php:88
+msgid "Auto"
+msgstr "Automatski"
+
+#: assets/i18n/translations.php:89
+msgid "Metadata"
+msgstr "Meta-podaci"
+
+#: assets/i18n/translations.php:90
+msgid "jQuery"
+msgstr "jQuery"
+
+#: assets/i18n/translations.php:91
+msgid "Modal"
+msgstr "Modal"
+
+#: assets/i18n/translations.php:92
+msgid "Modal Options"
+msgstr "Modal opcije"
+
+#: assets/i18n/translations.php:93
+msgid "Modal ID (Just a unique number is fine)"
+msgstr "Modal ID (dovoljan je samo jedinstveni broj) "
+
+#: assets/i18n/translations.php:94
+msgid "Visible text"
+msgstr "Vidljivi tekst"
+
+#: assets/i18n/translations.php:95
+msgid "Popup content (HTML allowed)"
+msgstr "Sadržaj iskačućeg prozora (dozvoljen HTML)"
+
+#: assets/i18n/translations.php:96
+msgid "Horizontal Tabs"
+msgstr "Horizontalni tabulatori"
+
+#: assets/i18n/translations.php:97
+msgid "Title (1st Tab)"
+msgstr "Naslov (1. tabulator)"
+
+#: assets/i18n/translations.php:98
+msgid "Title (2nd Tab)"
+msgstr "Naslov (2. tabulator)"
+
+#: assets/i18n/translations.php:99
+msgid "Title (3rd Tab)"
+msgstr "Naslov (3. tabulator)"
+
+#: assets/i18n/translations.php:100
+msgid "Title (4th Tab)"
+msgstr "Naslov (4. tabulator)"
+
+#: assets/i18n/translations.php:101
+msgid "Title (5th Tab)"
+msgstr "Naslov (5. tabulator)"
+
+#: assets/i18n/translations.php:102
+msgid "Insert the content of your first tab here"
+msgstr "Unesite sadržaj svog prvog tabulatora ovde"
+
+#: assets/i18n/translations.php:103
+msgid "Insert the content of your second tab here"
+msgstr "Unesite sadržaj svog drugog tabulatora ovde"
+
+#: assets/i18n/translations.php:104
+msgid "Insert the content of your third tab here"
+msgstr "Unesite sadržaj svog trećeg tabulatora ovde"
+
+#: assets/i18n/translations.php:105
+msgid "Insert the content of your fourth tab here"
+msgstr "Unesite sadržaj svog četvrtog tabulatora ovde"
+
+#: assets/i18n/translations.php:106
+msgid "Insert the content of your fifth tab here"
+msgstr "Unesite sadržaj svog petog tabulatora ovde"
+
+#: assets/i18n/translations.php:107
+msgid "Vertical Tabs"
+msgstr "Vertikalni tabulatori"
